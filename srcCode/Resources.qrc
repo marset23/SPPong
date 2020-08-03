@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>newGame.png</file>
+        <file>quitGame.png</file>
+        <file>return.png</file>
+        <file>ball2.png</file>
+    </qresource>
+</RCC>
